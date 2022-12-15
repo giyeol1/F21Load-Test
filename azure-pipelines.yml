@@ -11,10 +11,10 @@ pool:
 
 variables:
   webAppName: 'AzureLoadTest'
-  serviceConnection: 'F21LoadTestRM'
-  azureSubscriptionId: '0b95daf5-3923-4266-a0fa-253654a3c5be'
-  loadTestResource: 'LoadTesting100'
-  loadTestResourceGroup: 'AzureLoadTest1'
+  serviceConnection: 'F21LoadTestConn'
+  azureSubscriptionId: '5421bc3b-acdf-4676-bbe7-2cded7732cfc'
+  loadTestResource: 'F21LoadTesting'
+  loadTestResourceGroup: 'F21LoadTest'
   location: 'EAST US'
 
 
